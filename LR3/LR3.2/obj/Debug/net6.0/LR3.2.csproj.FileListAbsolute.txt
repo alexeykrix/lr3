@@ -1,0 +1,15 @@
+C:\Users\alexe\RiderProjects\LR3\LR3.2\bin\Debug\net6.0\LR3.2.exe
+C:\Users\alexe\RiderProjects\LR3\LR3.2\bin\Debug\net6.0\LR3.2.deps.json
+C:\Users\alexe\RiderProjects\LR3\LR3.2\bin\Debug\net6.0\LR3.2.runtimeconfig.json
+C:\Users\alexe\RiderProjects\LR3\LR3.2\bin\Debug\net6.0\LR3.2.dll
+C:\Users\alexe\RiderProjects\LR3\LR3.2\bin\Debug\net6.0\LR3.2.pdb
+C:\Users\alexe\RiderProjects\LR3\LR3.2\obj\Debug\net6.0\LR3.2.csproj.AssemblyReference.cache
+C:\Users\alexe\RiderProjects\LR3\LR3.2\obj\Debug\net6.0\LR3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\RiderProjects\LR3\LR3.2\obj\Debug\net6.0\LR3.2.AssemblyInfoInputs.cache
+C:\Users\alexe\RiderProjects\LR3\LR3.2\obj\Debug\net6.0\LR3.2.AssemblyInfo.cs
+C:\Users\alexe\RiderProjects\LR3\LR3.2\obj\Debug\net6.0\LR3.2.csproj.CoreCompileInputs.cache
+C:\Users\alexe\RiderProjects\LR3\LR3.2\obj\Debug\net6.0\LR3.2.dll
+C:\Users\alexe\RiderProjects\LR3\LR3.2\obj\Debug\net6.0\refint\LR3.2.dll
+C:\Users\alexe\RiderProjects\LR3\LR3.2\obj\Debug\net6.0\LR3.2.pdb
+C:\Users\alexe\RiderProjects\LR3\LR3.2\obj\Debug\net6.0\LR3.2.genruntimeconfig.cache
+C:\Users\alexe\RiderProjects\LR3\LR3.2\obj\Debug\net6.0\ref\LR3.2.dll
